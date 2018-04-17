@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/alipay/config/AlipayConfig.java=UTF-8
+encoding//src/main/java/com/alipay/util/AlipayCore.java=UTF-8
+encoding//src/main/java/com/alipay/util/AlipayNotify.java=UTF-8
+encoding//src/main/java/com/alipay/util/AlipaySubmit.java=UTF-8
+encoding//src/main/java/com/atguigu/controller/PaymentController.java=UTF-8
+encoding//src/main/java/com/atguigu/service/impl/PaymentServiceImpl.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/error.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/submit.jsp=UTF-8

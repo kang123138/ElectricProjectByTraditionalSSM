@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper SYSTEM "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.atguigu.mapper.IndexMapper">
+	<insert id="log" parameterType="String">
+		insert into log(message)
+		values(
+			#{message}
+		)
+	</insert>
+</mapper>
